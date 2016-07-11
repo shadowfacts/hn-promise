@@ -1,0 +1,28 @@
+{
+  "name": "hn-promise",
+  "version": "1.0.0",
+  "description": "A modern Promise-based Node.js wrapper for the Hacker News API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodeunit test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shadowfacts/hn-promise.git"
+  },
+  "keywords": [
+    "hn",
+    "hacker news",
+    "api",
+    "promise"
+  ],
+  "author": "shadowfacts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shadowfacts/hn-promise/issues"
+  },
+  "homepage": "https://github.com/shadowfacts/hn-promise#readme",
+  "dependencies": {
+    "promise": "^7.1.1"
+  }
+}
